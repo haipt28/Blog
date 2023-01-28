@@ -145,6 +145,16 @@ function Hero() {
           >
             Register
           </Button>
+          <Button
+            sx={{ ml: 2 }}
+            component="a"
+            rel="noopener"
+            size="large"
+            variant="contained"
+            href="/blog"
+          >
+            Blog
+          </Button>
         </Grid>
       </Grid>
     </Container>
